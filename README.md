@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**citoplasme/citoplasme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a Bachelor's and a Master's degrees from the
+[Faculty of Engineering](https://www.eng.uminho.pt/pt) of the
+[University of Minho](https://www.uminho.pt/) in Software
+Engineering. I have specialized in Data Science, Web
+Development and Syntactic Analysis.
 
-Here are some ideas to get you started:
+Since January 2023, I am a Computer Science PhD student under
+the supervision of Professor
+[Luís Torgo](https://web.cs.dal.ca/~ltorgo/) at
+[Dalhousie University](https://www.dal.ca).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests are in the field of Data Science, specifically in
+Machine and Deep learning, forecasting, and spatiotemporal data
+analysis.
