@@ -11,6 +11,9 @@ the supervision of Professor
 [Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/) at
 [Dalhousie University](https://www.dal.ca).
 
-My main interests are in the field of Data Science, specifically in
-Machine and Deep learning, forecasting, spatiotemporal data
-analysis and Natural Language Processing.
+My main interests lie in the field of data 
+science, specifically in machine and deep 
+learning, natural language processing, 
+speech processing, forecasting, 
+spatiotemporal data analysis and 
+explainable AI.
